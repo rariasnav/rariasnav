@@ -1,4 +1,4 @@
-# 💫 About Me:
+<h1 align="center">💫 About Me:</h1># 
 Hello! I'm a passionate and driven Full Stack Software Developer from Colombia, eager to learn and excel in the tech industry. At 27 years old, I am constantly seeking opportunities to grow and improve my skills, always striving to stand out in my field.<br><br>I am enthusiastic about participating in various projects, collaborating with teams, and contributing to innovative solutions. My dedication to learning and development is unwavering, and I am committed to staying up-to-date with the latest technologies and industry trends.<br><br>With a strong foundation in programming and a hunger for knowledge, I am ready to take on new challenges and make a significant impact. Whether it's front-end, back-end, or full-stack development, I am always excited to dive into new projects and deliver high-quality results.<br><br>Let's connect and see how we can create something amazing together!
 
 
